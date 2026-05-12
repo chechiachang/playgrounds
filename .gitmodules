@@ -58,3 +58,6 @@
 [submodule "argocd-playground"]
 	path = argocd-playground
 	url = https://github.com/chechiachang/argocd-playground.git
+[submodule "terraform-30-days"]
+	path = terraform-30-days
+	url = git@github.com:chechiachang/terraform-30-days.git
