@@ -1,0 +1,60 @@
+[submodule "llm-o11y"]
+	path = llm-o11y
+	url = https://github.com/chechiachang/llm-o11y.git
+[submodule "speckit-playground"]
+	path = speckit-playground
+	url = https://github.com/chechiachang/speckit-playground.git
+[submodule "go-rag-playgound"]
+	path = go-rag-playgound
+	url = https://github.com/chechiachang/go-rag-playgound.git
+[submodule "k8sgpt-playground"]
+	path = k8sgpt-playground
+	url = https://github.com/chechiachang/k8sgpt-playground.git
+[submodule "etcd-playground"]
+	path = etcd-playground
+	url = https://github.com/chechiachang/etcd-playground.git
+[submodule "rag-workshop"]
+	path = rag-workshop
+	url = https://github.com/chechiachang/rag-workshop.git
+[submodule "gemini-playground"]
+	path = gemini-playground
+	url = https://github.com/chechiachang/gemini-playground.git
+[submodule "mcp-playground"]
+	path = mcp-playground
+	url = https://github.com/chechiachang/mcp-playground.git
+[submodule "n8n-playgound"]
+	path = n8n-playgound
+	url = https://github.com/chechiachang/n8n-playgound.git
+[submodule "genai-playground"]
+	path = genai-playground
+	url = https://github.com/chechiachang/genai-playground.git
+[submodule "vault-playground"]
+	path = vault-playground
+	url = https://github.com/chechiachang/vault-playground.git
+[submodule "nextjs-playground"]
+	path = nextjs-playground
+	url = https://github.com/chechiachang/nextjs-playground.git
+[submodule "k8s-playground"]
+	path = k8s-playground
+	url = https://github.com/chechiachang/k8s-playground.git
+[submodule "istio-playground"]
+	path = istio-playground
+	url = https://github.com/chechiachang/istio-playground.git
+[submodule "circle-ci-playground"]
+	path = circle-ci-playground
+	url = https://github.com/chechiachang/circle-ci-playground.git
+[submodule "elasticsearch-playground"]
+	path = elasticsearch-playground
+	url = https://github.com/chechiachang/elasticsearch-playground.git
+[submodule "terraform-playground"]
+	path = terraform-playground
+	url = https://github.com/chechiachang/terraform-playground.git
+[submodule "chef-playground"]
+	path = chef-playground
+	url = https://github.com/chechiachang/chef-playground.git
+[submodule "kafka-playground"]
+	path = kafka-playground
+	url = https://github.com/chechiachang/kafka-playground.git
+[submodule "argocd-playground"]
+	path = argocd-playground
+	url = https://github.com/chechiachang/argocd-playground.git
