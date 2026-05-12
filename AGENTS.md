@@ -40,6 +40,8 @@ Fix:
 ## Update Flow
 - Pull all submodules:
   - `git submodule update --init --recursive --remote`
+- Order by latest commit time (desc):
+  - `git submodule foreach --quiet 'printf "%s\t%s\t%s\n" "$(git log -1 --format=%ct)" "$(git log -1 --format=%ci)" "$name"' | sort -rn`
 - Review pointer changes:
   - `git status`
   - `git diff --submodule`
