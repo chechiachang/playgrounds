@@ -11,7 +11,7 @@ Purpose:
 
 Ordered by latest commit time (desc):
 
-- [`speckit-playground`](./speckit-playground) — Speckit experiments. *(latest: 2026-05-01)*
+- [`speckit-playground`](./speckit-playground) — Speckit experiments. *(latest: 2026-05-22)*
 - [`llm-o11y`](./llm-o11y) — LLM observability experiments. *(latest: 2026-04-18)*
 - [`go-rag-playgound`](./go-rag-playgound) — Go-based RAG experiments. *(latest: 2026-02-17)*
 - [`k8sgpt-playground`](./k8sgpt-playground) — K8sGPT usage/tests. *(latest: 2025-10-21)*
