@@ -61,3 +61,6 @@
 [submodule "terraform-30-days"]
 	path = terraform-30-days
 	url = git@github.com:chechiachang/terraform-30-days.git
+[submodule "agentgateway-playground"]
+	path = agentgateway-playground
+	url = git@github.com:chechiachang/agentgateway-playground.git
